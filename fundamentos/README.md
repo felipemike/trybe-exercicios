@@ -1,4 +1,4 @@
-# Trybe
+# fundamentos
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Felipe Clemente](https://www.linkedin.com/in/felipeclemente2012/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
@@ -18,3 +18,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 2-1: _O que é e para que serve?_
 - [ ] 2-2: _Entendendo os comandos_
 - [ ] 2-3: _Internet - Entendendo como ela funciona_
+                                                      
+
