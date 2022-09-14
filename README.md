@@ -11,7 +11,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Fundamentos
 
 - [x] _Bloco 1: Unix & Bash._
-- [ ] Bloco 2: Git, GitHub e Internet.
+- [x] Bloco 2: Git, GitHub e Internet.
 - [ ] Bloco 3: Introdução à HTML e CSS.
 - [ ] Bloco 4: Introdução à JavaScript e Lógica de Programação.
 - [ ] Bloco 5: JavaScript: DOM, Eventos e Web Storage.
