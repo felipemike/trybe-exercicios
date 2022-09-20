@@ -1,0 +1,32 @@
+h1{
+    width: 60px;
+    color: orange;
+    font-family: sans-serif;
+}
+body{
+    background-color: darkcyan;
+    font-size: 16px;
+    font-style: italic;
+    line-height: normal;
+    text-align: center;
+    text-decoration: dashed;
+
+}
+.color{
+    background-color: rgb(4, 20, 241);
+    border-radius: 15px 15px;
+}
+p{
+  font-weight: 600;
+  font-size: 3em;
+}
+
+#ama{
+  color: yellow;
+}
+#ver{
+  color: red;
+}
+#mar{
+  color: maroon;
+}
