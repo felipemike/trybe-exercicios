@@ -12,16 +12,16 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] _Bloco 1: Unix & Bash._
 - [x] _Bloco 2: Git, GitHub e Internet._
-- [ ] Bloco 3: Introdução à HTML e CSS.
-- [ ] Bloco 4: Introdução à JavaScript e Lógica de Programação.
-- [ ] Bloco 5: JavaScript: DOM, Eventos e Web Storage.
-- [ ] Bloco 6: HTML e CSS: Forms, Flexbox e Repositorio.
-- [ ] Bloco 7: Introdução à JavaScript ES6 e Testes Unitários.          
-- [ ] Bloco 8: Higher Order Functions do JavaScript ES6.
+- [x] Bloco 3: Introdução à HTML e CSS.
+- [x] Bloco 4: Introdução à JavaScript e Lógica de Programação.
+- [x] Bloco 5: JavaScript: DOM, Eventos e Web Storage.
+- [x] Bloco 6: HTML e CSS: Forms, Flexbox e Repositorio.
+- [x] Bloco 7: Introdução à JavaScript ES6 e Testes Unitários.          
+- [x] Bloco 8: Higher Order Functions do JavaScript ES6.
 
 ##### Desenvolvimento Front-end
 
-- [ ] Bloco 9: JavaScript e Testes Assincronos.
+- [x] Bloco 9: JavaScript e Testes Assincronos.
 - [ ] Bloco 10: Introdução à React.
 - [ ] Bloco 11: Componentes com Estado, Eventos e Formulários com React.
 - [ ] Bloco 12: Ciclo de Vida de Componentes e React Router
