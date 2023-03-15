@@ -30,7 +30,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] Bloco 15: Gerenciamento de estado com Redux.
 - [x] Bloco 16: Projeto Jogo de Trivia.
 - [x] Bloco 17: Context API e React Hooks.
-- [x ] Bloco 18: Projeto App de Receitas.
+- [x] Bloco 18: Projeto App de Receitas.
 
 ##### Desenvolvimento Back-end
 
